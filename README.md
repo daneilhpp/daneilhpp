@@ -1,5 +1,5 @@
-<h1 align="center">Oi, eu sou Daniel</h1>
-<h3 align="center">Sou um desenvolvedor no caminho do fullstack</h3>
+<h1 align="center">Oi, eu sou Daniel!</h1>
+<h3 align="center">Sou um desenvolvedor no caminho do fullstack, e esse é o meu portifólio</h3>
 
 <h3 align="center"><b>Minhas redes sociais:</b></h2>
 <p align="center">
