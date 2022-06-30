@@ -13,6 +13,6 @@
 
 <h3 align="center">Estatísticas:</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daneilhpp&show_icons=true&locale=br&layout=compact&theme=dark" alt="daneilhpp" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daneilhpp&show_icons=true&locale=ptbr&layout=compact&theme=dark" alt="daneilhpp" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daneilhpp&show_icons=true&locale=br&theme=dark" alt="daneilhpp" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daneilhpp&show_icons=true&locale=ptbr&theme=dark" alt="daneilhpp" /></p>
