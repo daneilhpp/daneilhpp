@@ -14,6 +14,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daneilhpp&show_icons=true&locale=en&layout=compact" alt="daneilhpp" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daneilhpp&show_icons=true&locale=en" alt="daneilhpp" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daneilhpp&" alt="daneilhpp" /></p>
-
